@@ -1,0 +1,20 @@
+				|Seat(0,0)..R|     |Seat(0,1)..R||Seat(0,2)..R|
+
+				|Seat(1,0)..R|     |Seat(1,1)..V||Seat(1,2)..V|
+
+				|Seat(2,0)..V|     |Seat(2,1)..V||Seat(2,2)..V|
+
+				|Seat(3,0)..V|     |Seat(3,1)..V||Seat(3,2)..V|
+
+				|Seat(4,0)..B|     |Seat(4,1)..V||Seat(4,2)..V|
+
+				|Seat(5,0)..V|     |Seat(5,1)..V||Seat(5,2)..V|
+
+				|Seat(6,0)..V|     |Seat(6,1)..V||Seat(6,2)..V|
+
+				|Seat(7,0)..V|     |Seat(7,1)..V||Seat(7,2)..V|
+
+				|Seat(8,0)..V|     |Seat(8,1)..V||Seat(8,2)..V|
+
+				|Seat(9,0)..V|     |Seat(9,1)..V||Seat(9,2)..B|
+
